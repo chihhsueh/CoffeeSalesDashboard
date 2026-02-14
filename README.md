@@ -1,3 +1,4 @@
+![Dashboard Screenshot](dashboard-screenshot.png)
 # ☕ Coffee Shop Sales Dashboard
 
 An Excel dashboard I built from scratch analyzing ~10,000 coffee shop transactions across 5 U.S. cities. No Power BI. No Tableau. Just a `.xlsm` file and a whole lot of patience.
