@@ -72,6 +72,3 @@ Nothing fancy here. That was the point.
 3. Enable macros when prompted
 4. Head to the **Dashboard** tab and play around with the slicers
 
----
-
-*Built with Excel, stubbornness, and way too much coffee.* ☕
